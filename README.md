@@ -1,2 +1,2 @@
-# Unfinished
-This was going to be an extension of the game Polytopia, but I decided against it as I am trying to focus on Machine Learning right now, and learning new languages and frameworks.
+# Work in progress
+This is my dream game, one which I really hope to return to, with several dozen hours of planning and game design in progress.
